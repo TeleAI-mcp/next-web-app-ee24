@@ -1,2 +1,3 @@
-# next-web-app-ee24
-Automated issue comment bot repository
+# Next Web App Ee24
+
+Automated issue comment bot repository.
